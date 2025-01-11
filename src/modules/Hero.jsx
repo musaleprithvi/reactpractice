@@ -15,7 +15,7 @@ const Hero = () => {
             ></Profile>
           </div>
           <div className="col-md-6">
-            I am Student of Basaveshwar Engineering College, 
+           My name is Prithvi Musale.. I am Student of Basaveshwar Engineering College, 
             I am Pursuing MCA affiliated to VTU university.
            
           </div>
