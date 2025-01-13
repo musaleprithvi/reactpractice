@@ -1,4 +1,4 @@
-import Profile from "./Profile";
+import Profile from "./src/WhatsApp Image 2025-01-13 at 7.15.04 PM.jpeg";
 
 const Hero = () => {
   return (
