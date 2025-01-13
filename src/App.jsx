@@ -30,7 +30,7 @@ const App = () => {
         <Navigation></Navigation>
       </div>
       <Hero></Hero>
-      <h1 className="my-4">Office</h1>
+      <h1 className="my-4">Workplace</h1>
       <Section content={contentArray}></Section>
     </>
   );
