@@ -9,19 +9,19 @@ import Section from "./modules/Section";
 const App = () => {
   const contentArray = [
     [
-      { name: "Ravi", title: "Student", profilepic: "./css1.jpg" },
+      { name: "Sumit", title: "Student", profilepic: "./css1.jpg" },
       { name: "Puja", title: "Student", profilepic: "./css2.jpg" },
       { name: "Ashok", title: "Student", profilepic: "./css3.jpg" },
     ],
     [
       { name: "Sunil", title: "Student", profilepic: "./css4.jpg" },
-      { name: "Swati", title: "Student", profilepic: "./css5.jpg" },
+      { name: "Geeta", title: "Student", profilepic: "./css5.jpg" },
       { name: "Chaitra", title: "Student", profilepic: "./css6.jpg" },
     ],
     [
-      { name: "John", title: "Student", profilepic: "./css7.jpg" },
-      { name: "Sachin", title: "Student", profilepic: "./css8.jpg" },
-      { name: "Rohit", title: "Student", profilepic: "./css9.jpg" },
+      { name: "Lilly", title: "Student", profilepic: "./css7.jpg" },
+      { name: "Dhoni", title: "Student", profilepic: "./css8.jpg" },
+      { name: "Ashwin", title: "Student", profilepic: "./css9.jpg" },
     ],
   ];
   return (
@@ -30,7 +30,7 @@ const App = () => {
         <Navigation></Navigation>
       </div>
       <Hero></Hero>
-      <h1 className="my-4">Classroom</h1>
+      <h1 className="my-4">Office</h1>
       <Section content={contentArray}></Section>
     </>
   );
