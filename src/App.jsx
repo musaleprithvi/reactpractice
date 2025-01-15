@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./modules/Navigation";
-import Profile from "./modules/Profile";
+// import Profile from "./modules/Profile";
 import Hero from "./modules/Hero";
 import Section from "./modules/Section";
 
