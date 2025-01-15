@@ -14,7 +14,7 @@ const App = () => {
       { name: "Ashok", title: "Student", profilepic: "./css3.jpg" },
     ],
     [
-      { name: "Sunil", title: "Student", profilepic: "./css4.jpg" },
+      { name: "Anil", title: "Student", profilepic: "./css4.jpg" },
       { name: "Geeta", title: "Student", profilepic: "./css5.jpg" },
       { name: "Chaitra", title: "Student", profilepic: "./css6.jpg" },
     ],
